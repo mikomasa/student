@@ -1,0 +1,9 @@
+3
+chmod 755 chownfile
+chmod 644 chownfile
+1
+4
+
+
+sudo chown practice access
+sudo chgrp practice Group access
